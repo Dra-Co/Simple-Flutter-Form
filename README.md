@@ -7,6 +7,6 @@ Features :
 
 Note :
 -
-In this case, I used id with auto-increment for the primary key. Therefore, the user doesn't need to fill in the primary key anymore.
-To prevent the database from SQL Injection, I used bindValue() function.
-This is a simple CRUD program, so feel free to customize the program.
+This is a simple form UI (User Interface) using Flutter, beginner-friendly. 
+I used some basic decoration to make the display prettier.
+Of course you can freely modify it.
