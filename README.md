@@ -7,6 +7,6 @@ Features :
 
 Note :
 -
-This is a simple form UI (User Interface) using Flutter, beginner-friendly. 
+This is a simple form UI (User Interface) using Flutter, absolutely beginner-friendly. 
 I used some basic decoration to make the display prettier.
 Of course you can freely modify it.
